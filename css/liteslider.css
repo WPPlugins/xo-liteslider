@@ -1,0 +1,113 @@
+.liteslider {
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+.liteslider img {
+	max-width: 100%;
+	height: auto;
+}
+.liteslider .slides-container {
+	overflow: hidden;
+}
+.liteslider-slidefade .slides-container {
+	overflow: visible;
+}
+.liteslider ul.slides {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 100%;
+	max-width: none;
+}
+.liteslider ul.slides > li {
+	float: left;
+	text-align: center;
+	position: relative;
+}
+.liteslider ul.slides > li:not(:first-child) {
+	display: none;
+}
+.liteslider ul.slides:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.liteslider .slide-content {
+	position: absolute;
+	margin: 0;
+	padding: 10px;
+	top: 0;
+	left: 0;
+	width: 100%;
+	text-align: left;
+}
+
+/*
+Navigation
+*/
+.liteslider .slide-nav-prev,
+.liteslider .slide-nav-next {
+	position: absolute;
+	color: #333333;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	cursor: pointer;
+	opacity: 0;
+	margin-top: -15px;
+	top: 50%;
+	z-index: 11;
+}
+.liteslider .slide-nav-prev {
+	left: 0;
+}
+.liteslider .slide-nav-next {
+	right: 0;
+}
+.liteslider:hover .slide-nav-prev,
+.liteslider:hover .slide-nav-next {
+	opacity: 0.8;
+}
+.liteslider:hover .slide-nav-prev:hover,
+.liteslider:hover .slide-nav-next:hover {
+	opacity: 0.5;
+}
+
+.liteslider .slide-nav-prev > span,
+.liteslider .slide-nav-next > span { font-size: 30px; width: 30px; height: 30px; }
+
+/*
+Pagination
+*/
+.liteslider ol.slide-pagination {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	bottom: 15px;
+	width: 100%;
+	height: 16px;
+	text-align: center;
+	z-index: 10;
+}
+.liteslider ol.slide-pagination li {
+	margin: 0 5px;
+	width: 14px;
+	height: 14px;
+	display: inline-block;
+	cursor: pointer;
+	background-color: #333333;
+	border-radius: 10px;
+	border: 2px solid rgba(255,255,255,0.3);
+	opacity: 0.5;
+}
+.liteslider ol.slide-pagination li:hover,
+.liteslider ol.slide-pagination li.slide-active {
+	border: 2px solid rgba(255,255,255,0.4);
+	opacity: 1.0;
+}

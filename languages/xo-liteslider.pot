@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XO Liteslider\n"
+"POT-Creation-Date: 2016-09-10 17:41+0900\n"
+"PO-Revision-Date: 2016-09-10 17:41+0900\n"
+"Last-Translator: ishitaka\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n:1,2;_ex;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin.php:28 inc/admin.php:203
+msgid "Select Image"
+msgstr ""
+
+#: inc/admin.php:36 inc/admin.php:38 inc/admin.php:39
+msgid "Sliders"
+msgstr ""
+
+#: inc/admin.php:37
+msgid "Slider"
+msgstr ""
+
+#: inc/admin.php:40
+msgid "All Sliders"
+msgstr ""
+
+#: inc/admin.php:41 inc/admin.php:42
+msgid "Add New"
+msgstr ""
+
+#: inc/admin.php:43
+msgid "Edit Slider"
+msgstr ""
+
+#: inc/admin.php:44
+msgid "New Slider"
+msgstr ""
+
+#: inc/admin.php:45
+msgid "View Slider"
+msgstr ""
+
+#: inc/admin.php:46
+msgid "Search Slider"
+msgstr ""
+
+#: inc/admin.php:47
+msgid "No sliders found"
+msgstr ""
+
+#: inc/admin.php:48
+msgid "No sliders found in Trash"
+msgstr ""
+
+#: inc/admin.php:69 inc/admin.php:72
+msgid "Slider updated."
+msgstr ""
+
+#: inc/admin.php:70
+msgid "Custom field updated."
+msgstr ""
+
+#: inc/admin.php:71
+msgid "Custom field deleted."
+msgstr ""
+
+#: inc/admin.php:73
+#, php-format
+msgid "Slider restored to revision from %s."
+msgstr ""
+
+#: inc/admin.php:74
+msgid "Slider published."
+msgstr ""
+
+#: inc/admin.php:75
+msgid "Slider saved."
+msgstr ""
+
+#: inc/admin.php:76
+msgid "Slider submitted."
+msgstr ""
+
+#: inc/admin.php:77
+#, php-format
+msgid "Slider scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: inc/admin.php:77
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: inc/admin.php:78
+msgid "Slider draft updated."
+msgstr ""
+
+#: inc/admin.php:85
+#, php-format
+msgid "%s slider updated."
+msgid_plural "%s sliders updated."
+msgstr[0] ""
+
+#: inc/admin.php:86
+#, php-format
+msgid "%s slidert not updated, somebody is editing it."
+msgid_plural "%s slider not updated, somebody is editing them."
+msgstr[0] ""
+
+#: inc/admin.php:87
+#, php-format
+msgid "%s slidert permanently deleted."
+msgid_plural "%s sliders permanently deleted."
+msgstr[0] ""
+
+#: inc/admin.php:88
+#, php-format
+msgid "%s slider moved to the Trash."
+msgid_plural "%s sliders moved to the Trash."
+msgstr[0] ""
+
+#: inc/admin.php:89
+#, php-format
+msgid "%s slider restored from the Trash."
+msgid_plural "%s sliders restored from the Trash."
+msgstr[0] ""
+
+#: inc/admin.php:117
+msgid "Slides"
+msgstr ""
+
+#: inc/admin.php:118
+msgid "Parameter"
+msgstr ""
+
+#: inc/admin.php:119
+msgid "Usage"
+msgstr ""
+
+#: inc/admin.php:120 inc/admin.php:127 inc/admin.php:143
+msgid "Save"
+msgstr ""
+
+#: inc/admin.php:132
+msgid "Delete Permanently"
+msgstr ""
+
+#: inc/admin.php:134
+msgid "Move to Trash"
+msgstr ""
+
+#: inc/admin.php:161
+msgid "Copy this shortcode, please paste it into the post or page:"
+msgstr ""
+
+#: inc/admin.php:182
+msgid "Drag the header of each item to change the order."
+msgstr ""
+
+#: inc/admin.php:190
+msgid "Add Slide"
+msgstr ""
+
+#: inc/admin.php:191
+msgid "Delete Slide"
+msgstr ""
+
+#: inc/admin.php:204
+msgid "Clear Image"
+msgstr ""
+
+#: inc/admin.php:207
+msgid "Title Text:"
+msgstr ""
+
+#: inc/admin.php:208
+msgid "Alt Text:"
+msgstr ""
+
+#: inc/admin.php:209
+msgid "Link (URL):"
+msgstr ""
+
+#: inc/admin.php:210
+msgid "Content (HTML):"
+msgstr ""
+
+#: inc/admin.php:247
+msgid "Width:"
+msgstr ""
+
+#: inc/admin.php:248
+msgid "Height:"
+msgstr ""
+
+#: inc/admin.php:249
+msgid "Effect:"
+msgstr ""
+
+#: inc/admin.php:255
+msgid "Navigation:"
+msgstr ""
+
+#: inc/admin.php:256
+msgid "Pagination:"
+msgstr ""
+
+#: inc/admin.php:257
+msgid "Slideshow:"
+msgstr ""
+
+#: inc/admin.php:258
+msgid "Delay:"
+msgstr ""
+
+#: inc/admin.php:258 inc/admin.php:259
+msgid "ms"
+msgstr ""
+
+#: inc/admin.php:259
+msgid "Effect speed:"
+msgstr ""
+
+#: inc/admin.php:260
+msgid "Content:"
+msgstr ""
+
+#: inc/admin.php:261
+msgid "Order:"
+msgstr ""
+
+#: inc/admin.php:263
+msgid "Ascending order"
+msgstr ""
+
+#: inc/admin.php:264
+msgid "Descending order"
+msgstr ""
+
+#: inc/admin.php:265
+msgid "Random"
+msgstr ""
+
+#: inc/admin.php:269
+msgid "Width, height is optional. The default will be the image size."
+msgstr ""
+
+#: inc/admin.php:275
+msgid "Shortcode"
+msgstr ""
+
+#: inc/admin.php:278
+msgid "Template tags"
+msgstr ""
+
+#: inc/admin.php:281
+msgid "Parameter default will be the oldest slider."
+msgstr ""
+
+#: inc/xo-liteslider-widget.php:8
+msgid "Slider (XO Liteslider)"
+msgstr ""
+
+#: inc/xo-liteslider-widget.php:9
+msgid "Display Slider"
+msgstr ""
+
+#: inc/xo-liteslider-widget.php:30
+msgid "Title:"
+msgstr ""
+
+#: inc/xo-liteslider-widget.php:46
+msgid "Slider:"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "XO Liteslider plugin is a responsive support content slider."
+msgstr ""

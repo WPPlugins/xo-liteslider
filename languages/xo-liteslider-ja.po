@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XO Liteslider\n"
+"POT-Creation-Date: 2016-09-10 18:04+0900\n"
+"PO-Revision-Date: 2016-09-10 19:25+0900\n"
+"Last-Translator: ishitaka\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n:1,2;_ex;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin.php:28 inc/admin.php:203
+msgid "Select Image"
+msgstr "画像を設定"
+
+#: inc/admin.php:36 inc/admin.php:38 inc/admin.php:39
+msgid "Sliders"
+msgstr "スライダー"
+
+#: inc/admin.php:37
+msgid "Slider"
+msgstr "スライダー"
+
+#: inc/admin.php:40
+msgid "All Sliders"
+msgstr "スライド一覧"
+
+#: inc/admin.php:41 inc/admin.php:42
+msgid "Add New"
+msgstr "新規作成"
+
+#: inc/admin.php:43
+msgid "Edit Slider"
+msgstr "スライダーを編集"
+
+#: inc/admin.php:44
+msgid "New Slider"
+msgstr "新しいスライダー"
+
+#: inc/admin.php:45
+msgid "View Slider"
+msgstr "スライダーを表示"
+
+#: inc/admin.php:46
+msgid "Search Slider"
+msgstr "スライダーを検索"
+
+#: inc/admin.php:47
+msgid "No sliders found"
+msgstr "スライダーはありません"
+
+#: inc/admin.php:48
+msgid "No sliders found in Trash"
+msgstr "ゴミ箱にスライダーはありません"
+
+#: inc/admin.php:69 inc/admin.php:72
+msgid "Slider updated."
+msgstr "スライダーを更新しました。"
+
+#: inc/admin.php:70
+msgid "Custom field updated."
+msgstr "カスタムフィールドを更新しました。"
+
+#: inc/admin.php:71
+msgid "Custom field deleted."
+msgstr "カスタムフィールドを削除しました。"
+
+#: inc/admin.php:73
+#, php-format
+msgid "Slider restored to revision from %s."
+msgstr "リビジョン %s からスライダーを復元しました。"
+
+#: inc/admin.php:74
+msgid "Slider published."
+msgstr "スライダーが公開されました。"
+
+#: inc/admin.php:75
+msgid "Slider saved."
+msgstr "スライダーを保存しました。"
+
+#: inc/admin.php:76
+msgid "Slider submitted."
+msgstr "スライダーを作成しました。"
+
+#: inc/admin.php:77
+#, php-format
+msgid "Slider scheduled for: <strong>%1$s</strong>."
+msgstr "スライダーを<strong>%1$s</strong>に公開するよう予約しました。"
+
+#: inc/admin.php:77
+msgid "M j, Y @ G:i"
+msgstr "Y年n月j日G:i"
+
+#: inc/admin.php:78
+msgid "Slider draft updated."
+msgstr "スライダーの下書きを更新しました。"
+
+#: inc/admin.php:85
+#, php-format
+msgid "%s slider updated."
+msgid_plural "%s sliders updated."
+msgstr[0] "%s件のスライダーを更新しました。"
+
+#: inc/admin.php:86
+#, php-format
+msgid "%s slidert not updated, somebody is editing it."
+msgid_plural "%s slider not updated, somebody is editing them."
+msgstr[0] "%s件のスライダーを更新できませんでした。他の人が編集中です。"
+
+#: inc/admin.php:87
+#, php-format
+msgid "%s slidert permanently deleted."
+msgid_plural "%s sliders permanently deleted."
+msgstr[0] "%s件のスライダーを永久に削除しました。"
+
+#: inc/admin.php:88
+#, php-format
+msgid "%s slider moved to the Trash."
+msgid_plural "%s sliders moved to the Trash."
+msgstr[0] "%s件のスライダーをゴミ箱へ移動しました。"
+
+#: inc/admin.php:89
+#, php-format
+msgid "%s slider restored from the Trash."
+msgid_plural "%s sliders restored from the Trash."
+msgstr[0] "%s件のスライダーをゴミ箱から復元しました。"
+
+#: inc/admin.php:117
+msgid "Slides"
+msgstr "スライド"
+
+#: inc/admin.php:118
+msgid "Parameter"
+msgstr "パラメーター"
+
+#: inc/admin.php:119
+msgid "Usage"
+msgstr "使い方"
+
+#: inc/admin.php:120 inc/admin.php:127 inc/admin.php:143
+msgid "Save"
+msgstr "保存"
+
+#: inc/admin.php:132
+msgid "Delete Permanently"
+msgstr "完全に削除する"
+
+#: inc/admin.php:134
+msgid "Move to Trash"
+msgstr "ゴミ箱へ移動"
+
+#: inc/admin.php:161
+msgid "Copy this shortcode, please paste it into the post or page:"
+msgstr "このショートコードをコピーして、投稿または固定ページに貼り付けてください:"
+
+#: inc/admin.php:182
+msgid "Drag the header of each item to change the order."
+msgstr "各項目のヘッダーをドラッグして順番を変更します。"
+
+#: inc/admin.php:190
+msgid "Add Slide"
+msgstr "スライド追加"
+
+#: inc/admin.php:191
+msgid "Delete Slide"
+msgstr "スライド削除"
+
+#: inc/admin.php:204
+msgid "Clear Image"
+msgstr "画像クリア"
+
+#: inc/admin.php:207
+msgid "Title Text:"
+msgstr "タイトルテキスト:"
+
+#: inc/admin.php:208
+msgid "Alt Text:"
+msgstr "代替テキスト:"
+
+#: inc/admin.php:209
+msgid "Link (URL):"
+msgstr "リンク (URL):"
+
+#: inc/admin.php:210
+msgid "Content (HTML):"
+msgstr "コンテンツ (HTML):"
+
+#: inc/admin.php:247
+msgid "Width:"
+msgstr "幅:"
+
+#: inc/admin.php:248
+msgid "Height:"
+msgstr "高さ:"
+
+#: inc/admin.php:249
+msgid "Effect:"
+msgstr "効果:"
+
+#: inc/admin.php:255
+msgid "Navigation:"
+msgstr "ナビゲーション:"
+
+#: inc/admin.php:256
+msgid "Pagination:"
+msgstr "ページネーション:"
+
+#: inc/admin.php:257
+msgid "Slideshow:"
+msgstr "スライドショー:"
+
+#: inc/admin.php:258
+msgid "Delay:"
+msgstr "間隔:"
+
+#: inc/admin.php:258 inc/admin.php:259
+msgid "ms"
+msgstr "ミリ秒"
+
+#: inc/admin.php:259
+msgid "Effect speed:"
+msgstr "効果速度:"
+
+#: inc/admin.php:260
+msgid "Content:"
+msgstr "コンテンツ:"
+
+#: inc/admin.php:261
+msgid "Order:"
+msgstr "表示順:"
+
+#: inc/admin.php:263
+msgid "Ascending order"
+msgstr "昇順"
+
+#: inc/admin.php:264
+msgid "Descending order"
+msgstr "降順"
+
+#: inc/admin.php:265
+msgid "Random"
+msgstr "ランダム"
+
+#: inc/admin.php:269
+msgid "Width, height is optional. The default will be the image size."
+msgstr "幅、高さは省略可能です。省略時は画像サイズとなります。"
+
+#: inc/admin.php:275
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/admin.php:278
+msgid "Template tags"
+msgstr "テンプレート タグ"
+
+#: inc/admin.php:281
+msgid "Parameter default will be the oldest slider."
+msgstr "パラメーター省略時は最初のスライダーになります。"
+
+#: inc/xo-liteslider-widget.php:8
+msgid "Slider (XO Liteslider)"
+msgstr "スライダー (XO Liteslider)"
+
+#: inc/xo-liteslider-widget.php:9
+msgid "Display Slider"
+msgstr "スライダーを表示"
+
+#: inc/xo-liteslider-widget.php:30
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/xo-liteslider-widget.php:46
+msgid "Slider:"
+msgstr "スライダー:"
+
+#. Description of the plugin/theme
+msgid "XO Liteslider plugin is a responsive support content slider."
+msgstr "XO Liteslider プラグインは、レスポンシブ対応のコンテンツ スライダーです。"
+
+#~ msgid "Template Include"
+#~ msgstr "テンプレート に含める"
+
+#~ msgid "Slideshow"
+#~ msgstr "スライドショー"

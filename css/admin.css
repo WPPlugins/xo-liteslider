@@ -1,0 +1,27 @@
+.post-type-xo_liteslider span.shortcode > input { width: 100%; background: inherit; color: inherit; font-size: 12px; border: medium none; box-shadow: none; padding: 4px 8px; margin: 0; }
+
+#xo-liteslider-slide .slide-header { cursor: move; position: relative; margin: 15px 0 0; padding: 5px 15px; height: auto; min-height: 20px; line-height: 30px; background-color: #FAFAFA; border: 1px solid #DFDFDF; word-wrap: break-word; }
+#xo-liteslider-slide .slide-header-button { position: absolute; top: 0; color: #999; vertical-align: middle; cursor: pointer; font-size: 1.3rem; }
+#xo-liteslider-slide .slide-header-button:hover { color: #23282d; }
+#xo-liteslider-slide .slide-header-append-button { left: 12px; }
+#xo-liteslider-slide .slide-header-append-button:before { font-family: dashicons; content: "\f502"; }
+#xo-liteslider-slide .slide-header-remove-button { right: 12px; }
+#xo-liteslider-slide .slide-header-remove-button:before { font-family: dashicons; content: "\f153"; }
+#xo-liteslider-slide .slide:first-child .slide-header-remove-button { display: none; }
+
+#xo-liteslider-slide .slide-inner { padding: 10px; background-color: #fff; border-color: #E5E5E5; border-width: medium 1px 1px; border-style: none solid solid; box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.04); }
+#xo-liteslider-slide .slide-table { width: 100%; }
+#xo-liteslider-slide .slide-table td { vertical-align: top; }
+#xo-liteslider-slide .slide-table p { margin: 0; padding: 0 0 3px; }
+#xo-liteslider-slide .slide-image { margin: 0 0 5px 0; width: 150px; height: 150px; border: #ccc 1px solid; }
+#xo-liteslider-slide .slide-image img { width: 150px; height: 150px; }
+#xo-liteslider-slide .slide-image-button { color: #888; cursor: pointer; font-size: 1.8rem; line-height: 2.0rem; }
+#xo-liteslider-slide .slide-image-button:hover { color: #23282d; }
+#xo-liteslider-slide .slide-image-setting:before { font-family: dashicons; content: "\f464"; }
+#xo-liteslider-slide .slide-image-clear:before { font-family: dashicons; content: "\f218"; }
+
+#xo-liteslider-slide input,
+#xo-liteslider-slide textarea { width: 100%; }
+
+#xo-liteslider-parameter .table-parameter th { text-align: left; font-weight: normal; }
+#xo-liteslider-parameter input.small-text { width: 80px; }
